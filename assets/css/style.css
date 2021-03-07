@@ -4,18 +4,18 @@
  "Mike Dane", "w3schools", et al.
  */
 
-.backclass {
+ .backclass {
   background-image:url(/assets/images/default.png)
 }
 
 .plainclass {
-  color:            white;
-  background-color: #001030;
+  background-color: #222222;
+  color:            #f0f0f0;
 }
 
 .plainclass1 {
-  color:            white;
-  background-color: black;
+  background-color: #222222;
+  color:            #f0f0f0;
 }
 
 .container {
@@ -112,7 +112,7 @@
 
 .navbar {
   background-color: #222222;
-  color:            #FFFFFF;
+  color:            #f0f0f0;
   font-size:        0.7em;
 }
 
@@ -153,7 +153,6 @@ pre {
   overflow: auto;
   overflow-y: hidden;
   max-width: 65%;
-
  */
 
 /*
@@ -191,4 +190,3 @@ pre {
 /*
  ************************************************************
  */
-
