@@ -37,7 +37,7 @@ ZCZC W03 50 L10 Assignment (General) : assignment week 03
 ZCZC W04 50 L00 General Log
 ZCZC W04 20 L01 Scele related
 ZCZC W04 100 L02 ZOOM : Thursday Class
-ZCZC W04 10 L03 GItHUb related
+ZCZC W04 10 L03 GItHub related
 ZCZC W04 120 L05 GSGS related
 ZCZC W04 70 L06 Reading References
 ZCZC W04 60 L07 Demo related : trying demo w04
@@ -45,3 +45,16 @@ ZCZC W04 10 L09 AsDos : asking
 ZCZC W04 75 L10 Assignment (General)
 ZCZC W04 50 L25 C-Language : reading
 ZCZC W04 30 L22 YouTube : watching about Management memory
+ZCZC W05 50 L00 General Log
+ZCZC W05 10 L01 Scele related
+ZCZC W05 120 L02 ZOOM : Thursday Class
+ZCZC W05 10 L03 GitHub related
+ZCZC W05 120 L05 GSGS related
+ZCZC W05 60 L06 Reading References
+ZCZC W05 55 L07 Demo related
+ZCZC W05 30 L08 Trying something
+ZCZC W05 200 L10 Assignment(General)
+ZCZC W05 50 L26 Movie
+ZCZC W05 30 L27 Pets : feeding, playing with my cats
+ZCZC W05 50 L21 VirtualBox : setting system CPU RAM
+ZCZC W05 45 L22 YouTube : study and watching about virtual memory
