@@ -58,3 +58,15 @@ ZCZC W05 50 L26 Movie
 ZCZC W05 30 L27 Pets : feeding, playing with my cats
 ZCZC W05 50 L21 VirtualBox : setting system CPU RAM
 ZCZC W05 45 L22 YouTube : study and watching about virtual memory
+ZCZC W06 50 L00 General Log
+ZCZC W06 10 L01 SCele Related
+ZCZC W06 120 L02 ZOOM : Thursday class
+ZCZC W06 10 L03 GItHub related
+ZCZC W06 80 L05 GSGS related
+ZCZC W06 60 L06 Reading References
+ZCZC W06 30 L07 Demo related
+ZCZC W06 30 L08 Trying something
+ZCZC W06 120 L10 Assignment(general)
+ZCZC W06 30 L25 C-language : study
+ZCZC W06 60 L27 Pets : feeding, playing with my cats
+ZCZC W06 30 L22 YouTube : study
