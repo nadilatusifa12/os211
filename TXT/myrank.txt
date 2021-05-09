@@ -17,3 +17,6 @@ ZCZC W05 natsyz
 ZCZC W06 novihdn
 ZCZC W06 ni-tami
 ZCZC W06 naufaladi35
+ZCZC W07 natsyz
+ZCZC W07 naufaladi35
+ZCZC W07 azkafitria

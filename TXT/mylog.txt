@@ -82,3 +82,12 @@ ZCZC W07 210 L10 Assignment(General)
 ZCZC W07 30 L22 YouTube : study
 ZCZC W07 20 L25 C-language : study
 ZCZC W07 60 L27 Pets : playing with my cats
+ZCZC W08 20 L00 General Log
+ZCZC W08 15 L01 Scele related
+ZCZC W08 120 L02 ZOOM : Tuesday Class
+ZCZC W08 10 L03 GitHub related
+ZCZC W08 95 L05 GSGS related
+ZCZC W08 60 L06 Reading References
+ZCZC W08 240 L10 Assignment(General)
+ZCZC W08 30 L22 Youtube : study 
+
