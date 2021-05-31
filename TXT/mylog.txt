@@ -100,3 +100,9 @@ ZCZC W09 90 L06 REading References
 ZCZC W09 30 L07 Demo related
 ZCZC W09 360 L10 Assignment(general)
 ZCZC W09 30 L22 YouTube : Study
+ZCZC W10 20 L00 General Log
+ZCZC W10 15 L01 Scele related
+ZCZC W10 120 L02 ZOOM : Tuesday Class
+ZCZC W10 10 L03 GitHub related
+ZCZC W10 20 L05 GSGS related
+ZCZC W10 420 L10 Assignment(General)
